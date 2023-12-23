@@ -1,6 +1,8 @@
 # PulseAudio Simple API Go wrapper
 
-## Simple audio recorder
+## Examples
+
+### Simple audio recorder
 ```go
 package main
 
@@ -33,7 +35,7 @@ func main() {
 }
 ```
 
-## Simple audio player
+### Simple audio player
 
 ```go
 package main
